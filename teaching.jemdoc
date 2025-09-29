@@ -6,6 +6,20 @@
 === CUHK(SZ)
 - Operations Research: Optimization I, Advanced Convex Optimization, Optimization in Data Science and Machine Learning, Stochastic Process, Numerical Methods, Foundations of Data Science
 - Math & Stat: Partial Differential Equations, Statistical Inference, Statistical Modeling in Financial Markets
-- Computer Science: Deep Learning, Machine Learning, C/C++ Programming, Data Structure
+- Computer Science: Deep Learning, Machine Learning, C/C+\+ Programming, Data Structures
 
 
+~~~
+{}{raw}
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['￥', '￥'], ['\\(', '\\)']],
+	displayMath: [ ["￥￥","￥￥"], ["\\[", "\\]"] ]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+~~~

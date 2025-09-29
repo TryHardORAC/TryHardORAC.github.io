@@ -1,0 +1,51 @@
+# jemdoc: menu{menu}{index.html}
+# jemdoc: nofooter
+= Liangyu Ding
+
+~~~
+# {}{img_left}{Photos/myphoto.jpg}{alt text}{196}{196}
+
+
+\n
+Email: liangyuding\[@\]link\[DOT\]cuhk\[DOT\]edu\[DOT\]cn\n
+\n
+\[[https://www.linkedin.com/in/liangyu-ding Linkedin]\]\[[CV/Liangyu_CV.pdf Curriculum Vitae]\]
+{{
+<div align="center">
+<i> Keep looking, don't settle.</I>
+</div>}}
+~~~
+
+== About me
+
+I am a senior student at [https://www.cuhk.edu.cn/en The Chinese University of Hong Kong, Shenzhen], majoring in Data Science, where I am advised by Professor [https://mypage.cuhk.edu.cn/academics/wangzizhuo/ Zizhuo Wang] and [https://www.cmor-faculty.rice.edu/~zhang/ Yin Zhang].
+\n 
+
+== Research Interest
+- Methodologies: large-scale optimization, machine learning for optimization, optimization for machine learning
+- Applications: pricing and revenue management
+
+== Education
+
+- B.S. in Data Science and Big Data Technology, The Chinese University of Hong Kong, Shenzhen, Sep 2022 - May 2026 (Expected)
+
+== Miscellaneous
+
+- Rubik's Cube enthusiast for more than ten years, primarily plays ￥3 \\\times 3 \\\times 3 ￥, ￥2 \\\times 2 \\\times 2 ￥ and ￥4 \\\times 4 \\\times 4 ￥. I plan to take part in more than ￥ 4 ￥ WCA competitions in the following two years.
+- Football fan and enthusiast.
+
+
+~~~
+{}{raw}
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['￥', '￥'], ['\\(', '\\)']],
+	displayMath: [ ["￥￥","￥￥"], ["\\[", "\\]"] ]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+~~~

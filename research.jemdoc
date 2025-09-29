@@ -1,0 +1,50 @@
+# jemdoc: menu{menu}{research.html}
+# jemdoc: nofooter
+= Papers
+
+
+
+# Author names are listed in alphabetical order.
+# (￥\\\\alpha￥-￥\\\\beta￥: author names are sorted alphabetically)
+#￥f(n) =\\\\frac{1}{\\sqrt{5}}(\\\\frac{1 + \\sqrt{5}}{2} )^n￥
+#￥\\\\frac{1}{3}￥
+#￥(\\\\frac{1+\\sqrt{5}}{2})^n-\\\\frac{1-\\sqrt{5}}{2}￥
+#￥\\\\alpha\+\\\\beta￥
+#\(\alpha+\beta\)
+#{{\(\alpha \\+ \beta\)}}
+
+# == Working Papers
+# - On Convergence \n
+#  Adam Elmachtoub, Rachitesh Kumar, *Haixiang Lan* (￥\\\alpha￥-￥\\\beta￥)\n
+#  In Preparation\n
+
+== Publications and Preprints
+
+# - The Bias-Variance Tradeoff in Data-Driven Optimization: A Local Misspecification Perspective\n
+# Adam Elmachtoub, Henry Lam, *Haixiang Lan*, Haofeng Zhang{{<sup>*</sup>}} \n
+#  *Haixiang Lan*, Luofeng Liao, Adam Elmachtoub, Christian Kroer, Henry Lam, Haofeng Zhang \n
+# Accepted to The 39th Annual Conference on Neural Information Processing Systems (*NeurIPS*), 2025\n
+
+- [https://arxiv.org/abs/2509.22557 Learning to Price Bundles: A GCN Approach for Mixed Bundling]\n
+*Liangyu Ding*, Chenghan Wu, Guokai Li, Zizhuo Wang \n
+# Adam Elmachtoub, Henry Lam, *Haixiang Lan*, Haofeng Zhang (￥\\\alpha￥-￥\\\beta￥)\n
+preprint\n
+
+
+# {{<sup>*</sup>}} means that authors are listed in alphabetical order. {{<sup>+</sup>}} means that authors are equally contributed.
+
+
+~~~
+{}{raw}
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['￥', '￥'], ['\\(', '\\)']],
+	displayMath: [ ["￥￥","￥￥"], ["\\[", "\\]"] ]
+  }
+};
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+~~~
